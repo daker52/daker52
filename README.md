@@ -28,11 +28,11 @@ Jsem softwarový architekt a vývojář se zaměřením na **škálovatelné sys
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daker52&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daker52&layout=compact&theme=tokyonight" />
-</p>
+###🔒 NDA & Private Repositories
+
+**Upozornění:** Značná část mých komerčních projektů, systémových architektur a kódových bází spadá pod přísná **NDA (Dohody o mlčenlivosti)** nebo se nachází v soukromých firemních repozitářích mých klientů.
+
+Z tohoto důvodu zde neuvidíte kompletní historii mé denní práce ani zdrojové kódy k produkčním systémům. Pokud vás zajímají detaily mé práce, návrhové vzory nebo architektura mých řešení, rád vám vybrané koncepty přiblížím osobně během konzultace.
 
 ---
 
