@@ -45,8 +45,8 @@ Jsem softwarový architekt a vývojář se zaměřením na **škálovatelné sys
 
 ### 📫 Spojme se
 [![Web](https://img.shields.io/badge/Portfolio-kkcode.cz-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kkcode.cz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ondrej_Hak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ondrejhak/)
-[![Email](https://img.shields.io/badge/Email-Kontakt-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ondrejhak@kkcode.cz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ondrej_Hak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ondrejhak/](https://www.linkedin.com/in/ondrej-hak-3653a430a/))
+[![Email](https://img.shields.io/badge/Email-Kontakt-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@kkcode.cz)
 
 ---
 *„Tvořím digitální světy z kódu a bez omezení.“*
